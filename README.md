@@ -4,5 +4,5 @@ In this repository, i am going to include all my repositories with the title, a 
 
 Title.                    Brief Description.                                               URL.
 - Navbar002               Mega menu, dropdown, photo and icons included....                https://github.com/Bolo105/navbar002.git
-- My-001-Reactjs-Web      a complete website, includes, routing, animations....            
+- My-001-Reactjs-Web      A complete website, includes: routing, animations....            https://github.com/Bolo105/My-001-Reactjs-Web.git
 
