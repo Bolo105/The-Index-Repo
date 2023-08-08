@@ -7,4 +7,5 @@ Title.                    Brief Description.                                    
 - My-001-Reactjs-Web      A complete website, includes: routing, animations....            https://github.com/Bolo105/My-001-Reactjs-Web.git
 - My-003-Reactjs-Hero     A Landing section like a classic Hero...                         https://github.com/Bolo105/My-002-Reactjs-Hero.git
 - My-002-Reactjs-Web      A complete website, includes: routing, animations....            https://github.com/Bolo105/My-002-Reactjs-Web.git
+- My-002-Reactjs-navbar   A navbar with three sections and a Hero....                      https://github.com/Bolo105/My-002-Reactjs-Web.git
 
