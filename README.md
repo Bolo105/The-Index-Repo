@@ -9,5 +9,5 @@ Title.                    Brief Description.                                    
 - My-002-Reactjs-Web      A complete website, includes: routing, animations....            https://github.com/Bolo105/My-002-Reactjs-Web.git
 - My-002-Reactjs-navbar   A navbar with three sections and a Hero....                      https://github.com/Bolo105/My-003-Reactjs-navbar.git
 - My-003-Reactjs-Web      A complete website, includes: routing, animations....            https://github.com/Bolo105/My-003-Reactjs-Web.git
-- My-004-Reactjs-Sliders  Three sliders: clasiccal, with thumbnails and fade effect...     
+- My-004-Reactjs-Sliders  Three sliders: clasiccal, with thumbnails and fade effect...     https://github.com/Bolo105/My-004-Reactjs-Sliders.git
 
