@@ -12,5 +12,5 @@ Title.                                Brief Description.                        
 - My-004-Reactjs-Sliders              Three sliders: clasiccal, with thumbnails and fade effect...     https://github.com/Bolo105/My-004-Reactjs-Sliders.git
 - My-005-Reactjs-Form                 This a validated form with React Js...                           https://github.com/Bolo105/My-005-Reactjs-Form.git
 - My-006-Reactjs-unplashgallery       This is an images gallery with API unplash...                    https://github.com/Bolo105/My-006-Reactjs-unplashgallery.git
-- My-007-Reactjs-GalleryRecipes       This is a recipes gallery with API themealdb...
+- My-007-Reactjs-GalleryRecipes       This is a recipes gallery with API themealdb...                  https://github.com/Bolo105/My-007-Reactjs-GalleryRecipes.git
 
