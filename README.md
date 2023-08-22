@@ -13,5 +13,5 @@ Title.                                Brief Description.                        
 - My-005-Reactjs-Form                 This a validated form with React Js...                           https://github.com/Bolo105/My-005-Reactjs-Form.git
 - My-006-Reactjs-unplashgallery       This is an images gallery with API unplash...                    https://github.com/Bolo105/My-006-Reactjs-unplashgallery.git
 - My-007-Reactjs-GalleryRecipes       This is a recipes gallery with API themealdb...                  https://github.com/Bolo105/My-007-Reactjs-GalleryRecipes.git
-- My-007-Reactjs-Galleries            Three Galleries with React Js...
+- My-007-Reactjs-Galleries            Three Galleries with React Js...                                 https://github.com/Bolo105/My-007-Reactjs-Galleries.git
 
